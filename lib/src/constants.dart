@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
+const String ru = 'ru';
 const String ko = 'ko';
 const String fr = 'fr';
 const String de = 'de';
@@ -19,6 +20,8 @@ const String pl = 'pl';
 extension LocaleExtension on Locale {
   List<String> get months {
     switch (languageCode) {
+      case ru:
+        return ruMonths;
       case en:
         return enMonths;
       case fr:
@@ -65,6 +68,20 @@ const List<String> intMonths = [
   '11',
   '12',
   '13',
+];
+const List<String> ru = [
+  'Январь',
+  'Февраль',
+  'Март',
+  'Апрель',
+  'Май',
+  'Июнь',
+  'Июль',
+  'Август',
+  'Сентябрь',
+  'Октябрь',
+  'Ноябрь',
+  'Декабрь',
 ];
 const List<String> enMonths = [
   'January',
