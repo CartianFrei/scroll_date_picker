@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b6f7fe6-5108-488a-aa28-4c36d33ca1d5" name="Default Changelist" comment="">
+    <list default="true" id="7b6f7fe6-5108-488a-aa28-4c36d33ca1d5" name="Default Changelist" comment="added russian(ru) locale;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/constants.dart" afterDir="false" />
     </list>
@@ -44,24 +44,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CartianFrei"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CartianFrei&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CartianFrei/scroll_date_picker",
-    "accountId": "1a9af25b-97a6-47f2-b182-6345d0976585"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CartianFrei/scroll_date_picker&quot;,
+    &quot;accountId&quot;: &quot;1a9af25b-97a6-47f2-b182-6345d0976585&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="1mrqg86f1dNCNyJcwrmiOipfxzz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,7 +80,7 @@
     "git-widget-placeholder": "dev",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mac/Documents/GitHub/scroll_date_picker",
+    "last_opened_file_path": "C:/Users/Cartian/StudioProjects/scroll_date_picker",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -106,6 +106,15 @@
       <option name="presentableId" value="Default" />
       <updated>1610262165458</updated>
     </task>
+    <task id="LOCAL-00001" summary="added russian(ru) locale;">
+      <option name="closed" value="true" />
+      <created>1772531738978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772531738978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added russian(ru) locale;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added russian(ru) locale;" />
   </component>
 </project>

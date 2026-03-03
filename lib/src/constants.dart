@@ -69,7 +69,7 @@ const List<String> intMonths = [
   '12',
   '13',
 ];
-const List<String> ru = [
+const List<String> ruMonths = [
   'Январь',
   'Февраль',
   'Март',
